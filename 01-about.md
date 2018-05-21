@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 대회 안내
 permalink: /about/
 ---
 
