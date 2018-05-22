@@ -92,13 +92,22 @@ UCPC는 전국 대학생 프로그래밍 대회 준비 동아리 연합(이하 �
 #### UCPC 2016
 
  * [문제들](https://www.acmicpc.net/category/detail/1510)
+ * [풀이](https://www.slideshare.net/JeonDaePeuYeon/2016-ucpc-65393552)
 
 #### UCPC 2015
 
  * [문제들](https://www.acmicpc.net/category/detail/1358)
+ * [풀이](https://www.slideshare.net/SunyoungKim14/5-51953762)
  * [대회 결과](https://ucpc2015.acmicpc.net/)
 
 #### UCPC 2014
 
  * [문제들](https://algospot.com/judge/problem/list/?source=제4회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회)
  * [대회 결과](http://140823.hodduc.net/)
+
+#### UCPC 2013
+
+ * [문제들](https://algospot.com/judge/problem/list/?source=제3회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회)
+ * [풀이](https://dl.dropboxusercontent.com/s/lvx9t5xunt9bbja/ucpc-3rd-solution-slide.pdf)
+ * [대회 결과](https://dl.dropboxusercontent.com/s/sk5n8ur0kl7l5gq/ucpc-3rd-standing.png)
+
