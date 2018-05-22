@@ -36,6 +36,12 @@ ACM-ICPC를 준비하는 학생, 프로그래밍 대회에 관심이 있는 학�
 
 참가와 관련된 안내는 대회 안내 페이지를 참고해주세요.
 
+## 출제자 모집
+
+UCPC 2018 의 문제를 출제해주실 분도 절찬리에 모집 중입니다.
+
+[Call for Task]({% link 04-call-for-task.md %}) 페이지를 참고해주세요.
+
 
 <script type="text/javascript">
   function lpad(num, pad_str, len) {
