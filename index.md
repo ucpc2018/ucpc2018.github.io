@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="main-pic-wrapper">
-  <img src="{{ "/assets/main-pic-1.jpg" | relative_url }}">
+  <img id="main-pic" src="">
   <div class="main-pic-overlay"></div>
   <div class="main-pic-overlay-text">
     전국 대학생 프로그래밍 대회 동아리 연합<br />
@@ -32,3 +32,19 @@ ACM-ICPC를 준비하는 학생, 프로그래밍 대회에 관심이 있는 학�
 
 참가와 관련된 안내는 대회 안내 페이지를 참고해주세요.
 
+
+<script type="text/javascript">
+  function lpad(num, pad_str, len) {
+    var str = num.toString();
+    while (str.length < len) {
+      str = pad_str + str;
+    }
+    return str;
+  }
+  window.onload = function () {
+    var picture_num = Math.floor(Math.random() * 11);
+    var picture_name = 'main-pic-' + lpad(picture_num, '0', 2) + '.jpg';
+    var path = '{{ "/assets/" | relative_url }}' + picture_name;
+    document.getElementById('main-pic').src = path;
+  };
+</script>
