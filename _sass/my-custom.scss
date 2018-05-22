@@ -16,6 +16,7 @@
   background: rgba(0, 0, 0, .5);
 }
 
+
 .main-pic-overlay-text {
   position: absolute;
   bottom: 20px;
@@ -23,4 +24,20 @@
   font-size: 1.5rem;
   color: rgb(255, 255, 255);
   text-align: right;
+}
+
+@include media-query($on-laptop) {
+  .main-pic-overlay-text {
+    bottom: 14px;
+    right: 12px;
+    font-size: 1.2rem;
+  }
+}
+
+@include media-query($on-palm) {
+  .main-pic-overlay-text {
+    bottom: 10px;
+    right: 8px;
+    font-size: 0.8rem;
+  }
 }
