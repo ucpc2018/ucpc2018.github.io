@@ -4,15 +4,35 @@ title: Call for Task
 permalink: /call-for-task/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+UCPC 2018 의 문제를 모집합니다!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+UCPC 2018 을 최고의 대회로 만들어주실 출제자를 모집하고 있습니다.
+현재 운영진에서 여러 문제를 준비하고 있긴 하지만, 예선과 본선을 모두 진행하기엔 아직 부족합니다.
+여러분의 창의적이고 재미있는 문제를 기다리겠습니다!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### 문제, 해법, 데이터 제공
 
+완성된 문제 디스크립션과 모범답안, 데이터까지 한 번에 만들어주시는 방법입니다.
+이 경우엔 저희가 출제자 Slack 에 초대해드리고, 거기서 같이 커뮤니케이션하면서 문제를 준비하게 됩니다.
+문제 한 세트당 정해진 출제비를 받게 됩니다.
+아직 확정되지는 않았지만, 일정 이상은 드리려고 준비하고 있습니다.
 
-[jekyll-organization]: https://github.com/jekyll
+### 문제 아이디어, 해법만 제공
+
+나는 문제 하나를 온전히 만드는 것은 귀찮다, 그냥 아이디어만 제공하고 싶다 하시는 분들은
+문제 아이디어만 보내주셔도 괜찮습니다.
+문제 핵심 아이디어와 간략하게 정리한 풀이를 한 세트로 보내주시면 됩니다.
+문제 한 세트 전체를 제공해주시는 경우에 비해 적은 출제비를 받게 됩니다.
+
+### 제공해주신 자료가 사용되지 않을 경우
+
+제공해주신 문제는 다른 공개적인 곳이나 다른 사람에게 공유하지 않고
+최소 인원으로 구성된 검수진들 끼리만 공유합니다.
+상황에 따라서는 검수진의 판단하에 제공해주신 문제를 사용하지 않을 수도 있습니다.
+이런 경우엔 문제를 제공해주신 분께 즉각 안내를 드리겠습니다.
+그리고 이렇게 되면 죄송하지만 출제비를 드릴 수 없게 됩니다.
+
+### 보내주실 곳
+
+모든 자료는 ucpc2018.contact@gmail.com 으로 보내주시면 됩니다!
+혹시 출제에 관해 궁금하신 점이 있다면 마찬가지로 저 연락처로 연락주세요!
