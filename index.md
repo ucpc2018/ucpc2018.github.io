@@ -13,6 +13,7 @@ layout: default
 
 ## Update
 
+ * (07.10.) [Call for Staff]({% link 05-call-for-staff.md %}) 페이지가 추가되었습니다.
  * (06.23.) Call for Task가 마감되었습니다.
  * (06.20.) 온라인 예선 대회에 대한 [자세한 안내]({% link 02-qualifier.md %})를 공지했습니다.
  * (06.12.) 참가신청 마감일이 6/30 으로 연장되었습니다.
@@ -45,12 +46,11 @@ ACM-ICPC를 준비하는 학생, 프로그래밍 대회에 관심이 있는 학�
  * [참가 신청서](https://goo.gl/forms/AFmMCbTm8J9S5bea2)
  * [참가 신청 현황](https://docs.google.com/spreadsheets/d/1CezWKBSnWq0tggN-LsMUxc7QdDmfimoMdbKJE3s0ZU4/edit?usp=sharing)
 
+## 본선 스탭 모집
 
-## 출제자 모집
+UCPC 2018 본선 대회의 진행을 도와주실 분도 절찬리에 모집 중입니다.
 
-UCPC 2018 의 문제를 출제해주실 분도 절찬리에 모집 중입니다.
-
-[Call for Task]({% link 04-call-for-task.md %}) 페이지를 참고해주세요.
+[Call for Staff]({% link 05-call-for-staff.md %}) 페이지를 참고해주세요.
 
 
 <script type="text/javascript">
