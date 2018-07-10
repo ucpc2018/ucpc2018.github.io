@@ -17,6 +17,7 @@ permalink: /final/
  * [네이버 지도](http://naver.me/F3BZs8xS)
  * [Google 지도](https://goo.gl/maps/4mGndzGyxUk)
  * [foursquare](https://ko.foursquare.com/v/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%9D%B8%EC%9E%AC%EA%B0%9C%EB%B0%9C%EC%9B%90-samsung-electronics-leadership-center/52f17dfe498ed69167e510e2)
+ * 대회 당일 수원역과 인재개발원을 오가는 셔틀버스가 오전과 저녁에 15~20분 간격으로 운행될 예정입니다.
 
 ---
 ---
