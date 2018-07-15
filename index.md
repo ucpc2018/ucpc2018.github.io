@@ -13,6 +13,7 @@ layout: default
 
 ## Update
 
+ * (07.15.) 본선 진출 팀의 수가 확정되었습니다. 온라인 예선 상위 45팀이 본선에 진출합니다.
  * (07.15.) 온라인 예선의 사전 방송 및 시상 방송의 [주소](https://twitch.tv/ntopia)를 공지했습니다.
  * (07.10.) [본선 대회]({% link 03-final.md %}) 일정과 장소를 공지했습니다.
  * (07.10.) [Call for Staff]({% link 05-call-for-staff.md %}) 페이지가 추가되었습니다.
