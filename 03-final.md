@@ -39,6 +39,7 @@ permalink: /final/
    * C++ reference: http://en.cppreference.com/w/cpp
    * Java documentation: http://docs.oracle.com/javase/8/docs/api/
    * Python3 reference: https://docs.python.org/3/reference/
+ * 대회 중에는 프로그램을 작성하는데 사용하는 컴퓨터 이외의 모든 전자기기는 사용하실 수 없습니다.
 
 #### 유의사항
 
