@@ -4,6 +4,14 @@ title: 본선
 permalink: /final/
 ---
 
+### 본선 대회 종료
+
+본선 대회가 끝났습니다! 모두 고생 많으셨습니다. 도와주신 분들 모두 정말 감사드립니다.
+
+ * [스코어보드](https://ucpc.acmicpc.net/contest/spotboard/314)
+ * 다시 풀어보기
+ * [간략한 풀이](https://docs.google.com/presentation/d/1iL3syHDaOAgvip0-Dd_bS3Zl-07xD5LqbhYNeH30AFA/edit?usp=drivesdk)
+
 ### 본선 참가 정보 확인 안내
 
  * 온라인 예선 상위 45팀에게 7/16에 안내 메일을 보냈습니다. 받지 못하신 팀은 빠른 시일 내에 메일 주세요.
