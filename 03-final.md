@@ -10,7 +10,7 @@ permalink: /final/
 
  * [스코어보드](https://ucpc.acmicpc.net/contest/spotboard/314)
  * 다시 풀어보기
- * [간략한 풀이](https://docs.google.com/presentation/d/1iL3syHDaOAgvip0-Dd_bS3Zl-07xD5LqbhYNeH30AFA/edit?usp=drivesdk)
+ * [간략한 풀이](https://drive.google.com/open?id=1iL3syHDaOAgvip0-Dd_bS3Zl-07xD5LqbhYNeH30AFA)
 
 ### 본선 참가 정보 확인 안내
 
