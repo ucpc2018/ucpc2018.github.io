@@ -8,6 +8,7 @@ permalink: /final/
 
 본선 대회가 끝났습니다! 모두 고생 많으셨습니다. 도와주신 분들 모두 정말 감사드립니다.
 
+ * [문제 pdf판](/assets/problems-final.pdf)
  * [스코어보드](https://ucpc.acmicpc.net/contest/spotboard/314)
  * [다시 풀어보기](https://www.acmicpc.net/category/detail/1893)
  * [간략한 풀이](https://drive.google.com/open?id=1iL3syHDaOAgvip0-Dd_bS3Zl-07xD5LqbhYNeH30AFA)
