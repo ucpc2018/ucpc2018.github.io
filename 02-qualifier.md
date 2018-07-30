@@ -7,7 +7,7 @@ permalink: /qualifier/
 ### 온라인 예선 대회 종료
 
 온라인 예선 대회가 끝났습니다! 모두 고생 많으셨습니다.
- * [스코어보드](https://ucpc2018p.acmicpc.net/)
+ * [스코어보드](https://www.acmicpc.net/contest/spotboard/307)
  * [다시 풀어보기](https://www.acmicpc.net/category/detail/1891)
  * [간략한 풀이](https://docs.google.com/presentation/d/1y4f_ZCcWgCZocPZozsaFZpn2AJSx3ZtPwEFM3h7NurU/edit?usp=sharing)
 
