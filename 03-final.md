@@ -12,6 +12,8 @@ permalink: /final/
  * [스코어보드](https://ucpc.acmicpc.net/contest/spotboard/314)
  * [다시 풀어보기](https://www.acmicpc.net/category/detail/1893)
  * [간략한 풀이](https://drive.google.com/open?id=1iL3syHDaOAgvip0-Dd_bS3Zl-07xD5LqbhYNeH30AFA)
+ * [대회 사진](https://photos.app.goo.gl/A7Sftky46GauhHvd6)
+ * [Award Ceremony Video](https://youtu.be/oAbg9TOz3oE)
 
 ### 본선 참가 정보 확인 안내
 
